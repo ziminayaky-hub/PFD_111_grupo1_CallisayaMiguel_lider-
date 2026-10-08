@@ -1,1 +1,3 @@
-- Miguel Mauricio Callisaya Loza
+-Ailin Melani Cabaza Mayta
+-Miguel Mauricio Callisaya Loza
+-Pablo Mateo Camacho Gonzales
